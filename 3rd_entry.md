@@ -14,5 +14,5 @@ This link was helpful when I started trying to grasp the material.
 
 ## Parse tree:
 
-nodes: nonterminals (= syntactic categories)
+nodes: nonterminals (= syntactic categories) <br/>
 leaves: terminals (= tokens)
