@@ -1,6 +1,6 @@
 # 3rd Entry of the Blog
 
-## Abstract Syntax
+## Concrete and Abstract Syntax
 
 We started a simple caculator project to help understand how parsing and <br/>
 interpretation works in the smallest meaningful example. Through this <br/>
@@ -12,4 +12,7 @@ This link was helpful when I started trying to grasp the material.
 
 ![Parse tree](https://lh3.googleusercontent.com/proxy/IYamfqUz6jfprCjnaqlyAb5WDW8WLLRzkHeNLBzE4fJ4kC7Z3QW65psYKFrweeplEflx7haRkFuvdHWaaj--b4pH-jfqjONqf4nf-CFZ4crftwjSEnuarIjw2qOVR-aZ5OE)
 
+## Parse tree:
 
+nodes: nonterminals (= syntactic categories)
+leaves: terminals (= tokens)
