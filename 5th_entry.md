@@ -25,6 +25,8 @@ was touching on the idea that fundamental laws of physics are reversible.
 
 ### The game of billards example
 
+This is how he explains it with a game of billards:
+
 'If you were to make a movie of the balls bouncing off one another and the bumpers,<br/>
  the movie would look normal whether you ran it backward or forward: The collision <br/>
  physics would be the same, and you could work out the future configuration of the balls<br/>
@@ -33,6 +35,8 @@ was touching on the idea that fundamental laws of physics are reversible.
 He used this example to example how we never truly erase information from a computer. Whenever we overwrite a bit of information with a new value, the previous infomation <br/>
 may be lost but has not been destroyed. It is then pushed to the machine's thermal <br/> 
 environment where it becomes randomized information and produces heat.
+
+He then explains how this is revelant to our computers today:
 
 'Today’s computers rely on erasing information all the time—so much so that every <br/>
  single active logic gate in conventional designs destructively overwrites its previous <br/>
