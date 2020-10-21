@@ -2,9 +2,8 @@
 
 ## Reverseible computing
 
-You mentioned in the notes of "Semantics of the Lambda Calculus" that reversible <br/>
-computing was interesting. So I decided to look it up on Google to see what <br/> 
-I could find
+A topic of discussion that came up in class notes was "reversible computing" <br/>
+So I decided to look it up on Google to see what I could find
 
 This is an article that I read a little into [The Future of Computing Depends on Making It Reversible](https://spectrum.ieee.org/computing/hardware/the-future-of-computing-depends-on-making-it-reversible)
 
