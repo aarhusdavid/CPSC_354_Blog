@@ -15,20 +15,24 @@ mult (S n) m = add m (mult n m)'
 
 ## Downloading Haskell
 
-When we first downloaded Haskell it was unlike any Imperative language that I have ever. <br/>
-Downloaded. The instructions on GitHub helped make it less complicated. I saw though, in the <br/>
+ The instructions on GitHub helped make it less complicated. I saw though,in the <br/>
 discussion that some people had more issues when using a Windows computer<br/>
 
-Imperative languages are alot more easier to work with because they are alot <br/>
-more straight forward. You can initialize variables and objects very easily <br/>
-whereas in Haskell we were defining for all NN or PN.
+Imperative languages are alot more easier to work than functional progamming languages <br/>
+in my opinion. With Imperative languages, it is easier to give a computer <br/>
+a task and then it executes them. Also during execution, it can change state. <br/>
+With Functional Programming, like Haskell, it avoids mutable data and state <br/>
+It's declarative rather than imperative.
 
 Imperative
 
-> x = 2
-> y = 3
-> x + y
-> 5
+> x = 2 <br/>
+> y = 3 <br/>
+> x + y <br/>
+> 5 <br/>
+> x = 10 <br/>
+> x + y <br/>
+> 13 <br/>
 
 Haskell
 
