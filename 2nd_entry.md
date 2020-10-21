@@ -3,8 +3,14 @@
 ## Discrete vs Programming Languages
 
 When we first started discussion in class I quickly saw correlation<br/>
-between discrete mathematics and programming languagess.In discrete we  began by <br/>
-simplfying the simplest operations in math including counting <br/>
+between discrete mathematics and programming languagess.For the readers <br/>
+that don't know what Discrete mathematics is, according to Google, <br/>
+"It is the study of mathematical structures that are countable or otherwise <br/>
+distinct and separable. Examples of structures that are discrete are <br/>
+combinations, graphs, and logical statements. Discrete structures can be <br/>
+finite or infinite.
+
+In discrete we  began by simplfying the simplest operations in math including counting <br/>
 
 ### Successor Math 
  
