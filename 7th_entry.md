@@ -7,8 +7,24 @@
 
 I thought it was interesting how the article started off by saying there were so many deployment benefits <br/>
 even putting aside any ethical or safety concern. <br/>
-<br/>
 
-We had a discussion about his in one of my classes last year "Ethics in Computing". One of the projects was to <br/>
+We had a discussion about This in one of my classes last year "Ethics in Computing". One of the projects was to <br/>
 present to the class an topic that dealt with ethics in computing in the real world. I decided to chose the topic <br/>
-of self driving cars, specifically with Tesla. 
+of self driving cars, specifically with Tesla. <br/>
+
+I was main fascinated with the dilemma a car would have to face when put in a situation where it had to decide between <br/>
+the life of the person in the car or a innocent kid just crossing the street. In this situation, the car would use it's <br/>
+machine learning capabiliites to swerve and dodge a kid who was simply just crossing the street at the wrong time. However <br/>
+this would be at the expense of the passenger who might have to pay with his or her own life due to the abrupt swerve. <br/>
+Do these ethics lie on the hands of the engineers who coded the machine? Or is it the cars responsibiliry who has already <br/>
+consumed and calculated an immense amount of data and scenarios which has primed itself to be prepared for almost anything. <br/> 
+
+Adrian Colyer, the author of this article, argues that programmatically interpretable reinforcement learning has benefits that <br/>
+outweight any sort of situation. 
+
+To start off how would you even begin to make an interpretable model? Much like in our CPSC 354 course, the article suggests you <br/> 
+you would start off by defining a grammar and associated semantics in which the model would express itself. It is important that <br/>
+this language be interpretable for the machine, which will enable 'black box methods'. Here is a snippet of the article to further <br/> 
+explain black box policy. 
+
+![alt text](/Users/DavidAarhus/Desktop/Screen\ Shot\ 2020-11-13\ at\ 4.17.11\ PM.png)
