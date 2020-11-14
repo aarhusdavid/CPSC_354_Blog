@@ -29,12 +29,12 @@ explain black box policy.
 
 > Hence black-box and other models become not the ultimate output of our learning process, but an intermediate step along the way. <br/>
 > In PIRL, Verma et al. embody this pattern in the following way:
-1. There’s a tiny functional language based on a small number of side-effect free combinators
-2. For a given task, a program template (which the authors call a sketch), further constrains the set of programs that can be learned <br/>
-for the problem in hand. This also very handily constrains the search space of course, helping to make learning a suitable policy <br/>
-program tractable.
-3. To help guide the search within the set of programs conforming to the sketch, a standard reinforcement learning algorithm is used <br/>
-to learn a (black box) policy.
-4. The black box policy is used as an oracle (the Neural Policy Oracle), and a neurally directed program search (NDPS) tries to find <br/>
-the sketch-conforming program that behaves as closely to the oracle as possible.
+> 1. There’s a tiny functional language based on a small number of side-effect free combinators
+> 2. For a given task, a program template (which the authors call a sketch), further constrains the set of programs that can be learned <br/>
+> for the problem in hand. This also very handily constrains the search space of course, helping to make learning a suitable policy <br/>> 
+> program tractable.
+> 3. To help guide the search within the set of programs conforming to the sketch, a standard reinforcement learning algorithm is used <br/>
+> to learn a (black box) policy.
+> 4. The black box policy is used as an oracle (the Neural Policy Oracle), and a neurally directed program search (NDPS) tries to find <br/>
+> the sketch-conforming program that behaves as closely to the oracle as possible.
 
