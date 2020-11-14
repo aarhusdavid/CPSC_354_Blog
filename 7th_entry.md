@@ -27,4 +27,14 @@ you would start off by defining a grammar and associated semantics in which the 
 this language be interpretable for the machine, which will enable 'black box methods'. Here is a snippet of the article to further <br/> 
 explain black box policy. 
 
-![alt text](/Users/DavidAarhus/Desktop/Screen\ Shot\ 2020-11-13\ at\ 4.17.11\ PM.png)
+> Hence black-box and other models become not the ultimate output of our learning process, but an intermediate step along the way. <br/>
+> In PIRL, Verma et al. embody this pattern in the following way:
+1. There’s a tiny functional language based on a small number of side-effect free combinators
+2. For a given task, a program template (which the authors call a sketch), further constrains the set of programs that can be learned <br/>
+for the problem in hand. This also very handily constrains the search space of course, helping to make learning a suitable policy <br/>
+program tractable.
+3. To help guide the search within the set of programs conforming to the sketch, a standard reinforcement learning algorithm is used <br/>
+to learn a (black box) policy.
+4. The black box policy is used as an oracle (the Neural Policy Oracle), and a neurally directed program search (NDPS) tries to find <br/>
+the sketch-conforming program that behaves as closely to the oracle as possible.
+
