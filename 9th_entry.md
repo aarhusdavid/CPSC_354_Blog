@@ -2,6 +2,8 @@
 
 ## No-Code Software Revolution
 
+[Article](https://medium.com/inc./welcome-to-the-no-code-software-revolution-6b75ee967df7)
+
 As many may agree, software has been taking over the world. You can see it everywhere, from the internet, mobile <br/>
 devices, Artifical intelligence, augmented Reality, etc.Software will be the underlying framework for all innovation <br/>
 for years to come. 
