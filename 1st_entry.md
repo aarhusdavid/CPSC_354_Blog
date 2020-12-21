@@ -1,4 +1,6 @@
 # First Entry of the Blog
+
+[Next Blog](https://github.com/aarhusdavid/CPSC_354_Blog/blob/master/2nd_entry.md)
  
 ## Relation between fib() and Haskell programming
 
@@ -7,11 +9,11 @@ programming when we started coding for functional Programming. <br/>
 
 Example 1 <br/>
 
-'-- multiplication
-mult :: NN -> NN -> NN
-mult O n = O
-mult (S O) n = n
-mult (S n) m = add m (mult n m)'
+'-- multiplication <br/>
+mult :: NN -> NN -> NN <br/>
+mult O n = O <br/>
+mult (S O) n = n <br/>
+mult (S n) m = add m (mult n m)' <br/>
 
 ## Downloading Haskell
 
@@ -38,9 +40,9 @@ Haskell
 
 We defined the 'add' opertation for all NN using successor numbers.
 
-' -- addition
-add :: NN -> NN -> NN
-add O n = n
-add (S n) m = S (add n m)'
+' -- addition <br/>
+add :: NN -> NN -> NN <br/>
+add O n = n <br/>
+add (S n) m = S (add n m)' <br/>
 
 
