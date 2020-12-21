@@ -15,8 +15,8 @@ Lazy Evalutation was an interesting one to me. Basically Scala delays evalutatin
 call this 'call-by-need'. This can avoid repeated evaluatios. More benefits from Lazy Evaluation are listed below <br/>
 
 > 1.  We can define control flow as abstractions instead of primitives.<br/>
-2. We can define potentially infinite data structures.<br/>
-3. Lazy evaluation improves performance.,br/>
+> 2. We can define potentially infinite data structures.<br/>
+> 3. Lazy evaluation improves performance.,br/>
 
 The language is also similar to Java in a sense that it can run on a JVM (Jave Virtual machine) because the compiler turns the <br/>
 source code into byte code. Also it supports object-oriented programming.
