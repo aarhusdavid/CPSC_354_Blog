@@ -1,5 +1,8 @@
 # 6th Entry of the Blog
 
+[Previous Blog](https://github.com/aarhusdavid/CPSC_354_Blog/blob/master/5th_entry.md)
+[Next Blog](https://github.com/aarhusdavid/CPSC_354_Blog/blob/master/7th_entry.md)
+
 ## Resemblance between Abstract Reduction Systems and Funcional Dependencies <br/>
 
 In class today we begaon looking at some of the questions on our practice <br/>

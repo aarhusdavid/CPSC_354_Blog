@@ -1,5 +1,8 @@
 # 9th Blog Entry
 
+[Previous Blog](https://github.com/aarhusdavid/CPSC_354_Blog/blob/master/8th_entry.md)
+[Next Blog](https://github.com/aarhusdavid/CPSC_354_Blog/blob/master/10th_entry.md)
+
 ## No-Code Software Revolution
 
 [Article](https://medium.com/inc./welcome-to-the-no-code-software-revolution-6b75ee967df7)

@@ -1,5 +1,7 @@
 # 7th Blog Entry
 
+[Previous Blog](https://github.com/aarhusdavid/CPSC_354_Blog/blob/master/6th_entry.md)
+[Next Blog](https://github.com/aarhusdavid/CPSC_354_Blog/blob/master/8th_entry.md)
 
 ## Programming Languages and Machine Learning <br/>
 

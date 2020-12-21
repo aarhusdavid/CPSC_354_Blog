@@ -1,5 +1,8 @@
 # 3rd Entry of the Blog
 
+[Previous Blog](https://github.com/aarhusdavid/CPSC_354_Blog/blob/master/2nd_entry.md)
+[Next Blog](https://github.com/aarhusdavid/CPSC_354_Blog/blob/master/4th_entry.md)
+
 ## Concrete and Abstract Syntax
 
 We started a simple caculator project to help understand how parsing and <br/>

@@ -1,5 +1,8 @@
 # 8th Blog Entry
 
+[Previous Blog](https://github.com/aarhusdavid/CPSC_354_Blog/blob/master/7th_entry.md)
+[Next Blog](https://github.com/aarhusdavid/CPSC_354_Blog/blob/master/9th_entry.md)
+
 ## The Julia programming language
 
 [Article](https://arstechnica.com/science/2020/10/the-unreasonable-effectiveness-of-the-julia-programming-language/)

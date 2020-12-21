@@ -1,5 +1,8 @@
 # Second Entry of the Blog
 
+[Previous Blog](https://github.com/aarhusdavid/CPSC_354_Blog/blob/master/1st_entry.md)
+[Next Blog](https://github.com/aarhusdavid/CPSC_354_Blog/blob/master/3rd_entry.md)
+
 ## Discrete vs Programming Languages
 
 When we first started discussion in class I quickly saw correlation<br/>

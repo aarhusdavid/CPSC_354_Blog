@@ -1,5 +1,8 @@
 # 4th Entry of the Blog
 
+[Previous Blog](https://github.com/aarhusdavid/CPSC_354_Blog/blob/master/3rd_entry.md)
+[Next Blog](https://github.com/aarhusdavid/CPSC_354_Blog/blob/master/5th_entry.md)
+
 ## Downloading BNFC
 
 This was one of the more frustrating moments of the class. It took forever to <br/>

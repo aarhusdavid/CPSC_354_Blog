@@ -1,5 +1,8 @@
 # 5th Entry of the Blog
 
+[Previous Blog](https://github.com/aarhusdavid/CPSC_354_Blog/blob/master/4th_entry.md)
+[Next Blog](https://github.com/aarhusdavid/CPSC_354_Blog/blob/master/6th_entry.md)
+
 ## Reverseible computing
 
 A topic of discussion that came up in class notes was "reversible computing" <br/>

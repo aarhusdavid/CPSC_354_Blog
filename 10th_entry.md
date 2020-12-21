@@ -1,5 +1,7 @@
 # 10th Blog Entry
 
+[Previous Blog](https://github.com/aarhusdavid/CPSC_354_Blog/blob/master/9th_entry.md)
+
 ## Why Scala?
 
 [Article](https://data-flair.training/blogs/why-scala/)
