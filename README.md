@@ -21,3 +21,6 @@ Fall 2020 <br/>
 
 [8th Entry](https://github.com/aarhusdavid/CPSC_354_Blog/blob/master/8th_entry.md)
 
+[9th Entry](https://github.com/aarhusdavid/CPSC_354_Blog/blob/master/9th_entry.md)
+
+[10th Entry](https://github.com/aarhusdavid/CPSC_354_Blog/blob/master/10th_entry.md)
