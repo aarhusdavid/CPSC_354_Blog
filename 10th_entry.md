@@ -2,6 +2,8 @@
 
 ## Why Scala?
 
+[Article](https://data-flair.training/blogs/why-scala/)
+
 I have heard of Scala in the past but never really looked into it. I came across this article and decided I would give it a read <br/>
 
 First of all I thought it was interesting how the Scala language inferred data types. Apparently it does this by taking in <br/>
